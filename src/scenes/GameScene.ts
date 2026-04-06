@@ -1,1 +1,226 @@
-CmltcG9ydCBQaGFzZXIgZnJvbSAncGhhc2VyJzsKaW1wb3J0IHsgR0FNRV9XSURUSCwgR0FNRV9IRUlHSFQsIFBBVEhfUE9JTlRTLCBUT1dFUl9UWVBFUywgRU5FTVlfVFlQRVMsIFdBVkVTLCBQQVRIX0VYQ0xVU0lPTl9SQURJVVMKIH0gZnJvbSAnLi4vY29uZmlnL2dhbWVDb25maWcnOwppbXBvcnQgeyBQYXRoU3lzdGVtIH0gZnJvbSAnLi4vc3lzdGVtcy9QYXRoU3lzdGVtJzsKaW1wb3J0IHsgVG93ZXIgfSBmcm9tICcuLi9lbnRpdGllcy9Ub3dlcic7CmltcG9ydCB7IEVuZW15IH0gZnJvbSAnLi4vZW50aXRpZXMvRW5lbXknOwppbXBvcnQgeyBXYXZlTWFuYWdlciB9IGZyb20gJy4uL2VudGl0aWVzL1dhdmVNYW5hZ2VyJzsKaW1wb3J0IHsgTGVhZGVyYm9hcmRTZXJ2aWNlIH0gZnJvbSAnLi4vc3lzdGVtcy9MZWFkZXJib2FyZFNlcnZpY2UnOwoKZXhwb3J0IGNsYXNzIEdhbWVTY2VuZSBleHRlbmRzIFBoYXNlci5TY2VuZSB7CiAgcHJpdmF0ZSBnb2xkOiBudW1iZXIgPSAyMDA7CiAgcHJpdmF0ZSBsaXZlczogbnVtYmVyID0gMjA7CiAgcHJpdmF0ZSBzY29yZTogbnVtYmVyID0gMDsKICBwcml2YXRlIHNwZWVkTXVsdGlwbGllcjogbnVtYmVyID0gMTsKICBwcml2YXRlIGlzUGF1c2VkOiBib29sZWFuID0gZmFsc2U7CgogIHByaXZhdGUgdG93ZXJzOiBUb3dlcltdID0gW107CiAgcHJpdmF0ZSBlbmVtaWVzOiBFbmVteVtdID0gW107CiAgcHJpdmF0ZSBwcm9qZWN0aWxlczogUGhhc2VyLkdhbWVPYmplY3RzLkFyYyBbXSA9IFtdOwoKICBwcml2YXRlIHBhdGhTeXN0ZW0hOiBQYXRoU3lzdGVtOwogIHByaXZhdGUgd2F2ZU1hbmFnZXIhOiBXYXZlTWFuYWdlcjsKCiAgcHJpdmF0ZSBzZWxlY3RlZFRvd2VyVHlwZTogc3RyaW5nIHwgbnVsbCA9IG51bGw7CiAgcHJpdmF0ZSBzZWxlY3RlZFRvd2VyOiBUb3dlciB8IG51bGwgPSBudWxsOwogIHByaXZhdGUgcGxhY2VtZW50UHJldmlldyE6IFBoYXNlci5HYW1lT2JqZWN0cy5BcmM7CgogIHByaXZhdGUgZ29sZFRleHQhOiBQaGFzZXIuR2FtZU9iamVjdHMuVGV4dDsKICBwcml2YXRlIGxpdmVzVGV4dCE6IFBoYXNlci5HYW1lT2JqZWN0cy5UZXh0OwogIHByaXZhdGUgd2F2ZVRleHQhOiBQaGFzZXIuR2FtZU9iamVjdHMuVGV4dDsKICBwcml2YXRlIHNjb3JlVGV4dCE6IFBoYXNlci5HYW1lT2JqZWN0cy5UZXh0OwoKICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKHsga2V5OiAnR2FtZVNjZW5lJyB9KTsKICB9CgogIGNyZWF0ZSgpOiB2b2lkIHsKICAgIHRoaXMuZ29sZCA9IDIwMDsKICAgIHRoaXMubGl2ZXMgPSAyMDsKICAgIHRoaXMuc2NvcmUgPSAwOwogICAgdGhpcy5zcGVlZE11bHRpcGxpZXIgPSAxOwogICAgdGhpcy5pc1BhdXNlZCA9IGZhbHNlOwogICAgdGhpcy50b3dlcnMgPSBbXTsKICAgIHRoaXMuZW5lbWllcyA9IFtdOwogICAgdGhpcy5wcm9qZWN0aWxlcyA9IFtdOwogICAgdGhpcy5zZWxlY3RlZFRvd2VyVHlwZSA9IG51bGw7CiAgICB0aGlzLnNlbGVjdGVkVG93ZXIgPSBudWxsOwoKICAgIHRoaXMuY2FtZXJhcy5tYWluLnNldEJhY2tncm91bmRDb2xvcigweDRhYmE0YSk7CgogICAgdGhpcy5wYXRoU3lzdGVtID0gbmV3IFBhdGhTeXN0ZW0odGhpcyk7CiAgICB0aGlzLnBhdGhTeXN0ZW0uZHJhd1BhdGgoKTsKCiAgICB0aGlzLndhdmVNYW5hZ2VyID0gbmV3IFdhdmVNYW5hZ2VyKHRoaXMsIChleTogRW5lbXkpID0+IHsKICAgICAgdGhpcy5lbmVtaWVzLnB1c2goZXkpOwogICAgfSk7CgogICAgdGhpcy5jcmVhdGVIVUQoKTsKICAgIHRoaXMuY3JlYXRlVG93ZXJCdXR0b25zKCk7CiAgICB0aGlzLnNldHVwSW5wdXQoKTsKCiAgICAvLyBQbGFjZW1lbnQgcHJldmlldwogICAgdGhpcy5wbGFjZW1lbnRQcmV2aWV3ID0gdGhpcy5hZGQuY2lyY2xlKDAsIDAsIDIwLCAweDAwZmYwMCwgMC4zKTsKICAgIHRoaXMucGxhY2VtZW50UHJldmlldy5zZXRWaXNpYmxlKGZhbHNlKTsKICB9CgogIHByaXZhdGUgY3JlYXRlSFVEKCk6IHZvaWQgewogICAgY29uc3Qgc3R5bGUgPSB7IGZvbnRTaXplOiAnMThweCcsIGNvbG9yOiAnI2ZmZicsIGZvbnRGYW1pbHk6ICdBcmlhbCcsIHN0cm9rZTogJyMwMDAnLCBzdHJva2VUaGlja25lc3M6IDMgfTsKICAgIHRoaXMuZ29sZFRleHQgPSB0aGlzLmFkZC50ZXh0KDEwLCAxMCwgYPCfkrAgJHt0aGlzLmdvbGR9YCwgc3R5bGUpOwogICAgdGhpcy5saXZlc1RleHQgPSB0aGlzLmFkZC50ZXh0KDE1MCwgMTAsIGDinaQgJHt0aGlzLmxpdmVzfWAsIHN0eWxlKTsKICAgIHRoaXMud2F2ZVRleHQgPSB0aGlzLmFkZC50ZXh0KDI4MCwgMTAsIGDwn4yKIFdhdmU6IDBgLCBzdHlsZSk7CiAgICB0aGlzLnNjb3JlVGV4dCA9IHRoaXMuYWRkLnRleHQoNDUwLCAxMCwgYOKtkO+4jyAke3RoaXMuc2NvcmV9YCwgc3R5bGUpOwoKICAgIC8vIFNwZWVkIGJ1dHRvbnMKICAgIFsxLCAyLCAzXS5mb3JFYWNoKChzcGQsIGkpID0+IHsKICAgICAgY29uc3QgYnRuID0gdGhpcy5hZGQudGV4dCg2NTAgKyBpICogNjAsIDEwLCBgeCR7c3BkfWAsIHsKICAgICAgICBmb250U2l6ZTogJzE2cHgnLCBjb2xvcjogc3BkID09PSB0aGlzLnNwZWVkTXVsdGlwbGllciA/ICcjRkZENzAwJyA6ICcjZmZmJywKICAgICAgICBmb250RmFtaWx5OiAnQXJpYWwnLCBiYWNrZ3JvdW5kQ29sb3I6ICcjMzMzJywgcGFkZGluZzogeyB4OiA4LCB5OiA0IH0KICAgICAgfSkuc2V0SW50ZXJhY3RpdmUoeyB1c2VIYW5kQ3Vyc29yOiB0cnVlIH0pOwogICAgICBidG4ub24oJ3BvaW50ZXJkb3duJywgKCkgPT4geyB0aGlzLnNwZWVkTXVsdGlwbGllciA9IHNwZDsgfSk7CiAgICB9KTsKICB9CgogIHByaXZhdGUgY3JlYXRlVG93ZXJCdXR0b25zKCk6IHZvaWQgewogICAgY29uc3QgdHlwZXMgPSBPYmplY3Qua2V5cyhUT1dFUl9UWVBFUyk7CiAgICB0eXBlcy5mb3JFYWNoKCh0eXBlLCBpKSA9PiB7CiAgICAgIGNvbnN0IHQgPSBUT1dFUl9UWVBFU1t0eXBlXTsKICAgICAgY29uc3QgeSA9IDUwICsgaSAqIDcwOwogICAgICBjb25zdCBidG4gPSB0aGlzLmFkZC50ZXh0KEdBTUVfV0lEVEggLSAxNjAsIHksIGAke3QuZW1vaml9ICR7dC5uYW1lfVxuJHt0LmNvc3R9Z2AsIHsKICAgICAgICBmb250U2l6ZTogJzEzcHgnLCBjb2xvcjogJyNmZmYnLCBmb250RmFtaWx5OiAnQXJpYWwnLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyMyMjI4JywgcGFkZGluZzogeyB4OiAxMCwgeTogNiB9CiAgICAgIH0pLnNldEludGVyYWN0aXZlKHsgdXNlSGFuZEN1cnNvcjogdHJ1ZSB9KTsKICAgICAgYnRuLm9uKCdwb2ludGVyZG93bicsICgpID0+IHsKICAgICAgICB0aGlzLnNlbGVjdGVkVG93ZXJUeXBlID0gdHlwZTsKICAgICAgICB0aGlzLnNlbGVjdGVkVG93ZXIgPSBudWxsOwogICAgICB9KTsKICAgIH0pOwogIH0KCiAgcHJpdmF0ZSBzZXR1cElucHV0KCk6IHZvaWQgewogICAgdGhpcy5pbnB1dC5vbigncG9pbnRlcm1vdmUnLCAocDogUGhhc2VyLklucHV0LlBvaW50ZXIpID0+IHsKICAgICAgaWYgKHRoaXMuc2VsZWN0ZWRUb3dlclR5cGUpIHsKICAgICAgICB0aGlzLnBsYWNlbWVudFByZXZpZXcuc2V0UG9zaXRpb24ocC54LCBwLnkpOwogICAgICAgIHRoaXMucGxhY2VtZW50UHJldmlldy5zZXRWaXNpYmxlKHRydWUpOwogICAgICAgIGNvbnN0IGNhblBsYWNlID0gdGhpcy5jYW5QbGFjZVRvd2VyKHAueCwgcC55KTsKICAgICAgICB0aGlzLnBsYWNlbWVudFByZXZpZXcuc2V0RmlsbFN0eWxlKGNhblBsYWNlID8gMHgwMGZmMDAgOiAweGZmMDAwMCwgMC4zKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0aGlzLnBsYWNlbWVudFByZXZpZXcuc2V0VmlzaWJsZShmYWxzZSk7CiAgICAgIH0KICAgIH0pOwoKICAgIHRoaXMuaW5wdXQub24oJ3BvaW50ZXJkb3duJywgKHA6IFBoYXNlci5JbnB1dC5Qb2ludGVyKSA9PiB7CiAgICAgIGlmICh0aGlzLnNlbGVjdGVkVG93ZXJUeXBlKSB7CiAgICAgICAgdGhpcy50cnlQbGFjZVRvd2VyKHAueCwgcC55KTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0aGlzLnRyeVNlbGVjdFRvd2VyKHAueCwgcC55KTsKICAgICAgfQogICAgfSk7CgogICAgdGhpcy5pbnB1dC5rZXlib2FyZCEub24oJ2tleWRvd24tU1BBQ0UnLCAoKSA9PiB7CiAgICAgIHRoaXMuaXNQYXVzZWQgPSAhdGhpcy5pc1BhdXNlZDsKICAgIH0pOwogICAgdGhpcy5pbnB1dC5rZXlib2FyZCEub24oJ2tleWRvd24tRVNDJywgKCkgPT4gewogICAgICB0aGlzLnNlbGVjdGVkVG93ZXJUeXBlID0gbnVsbDsKICAgICAgdGhpcy5zZWxlY3RlZFRvd2VyID0gbnVsbDsKICAgIH0pOwogIH0KCiAgcHJpdmF0ZSBjYW5QbGFjZVRvd2VyKHg6IG51bWJlciwgeTogbnVtYmVyKTogYm9vbGVhbiB7CiAgICBpZiAodGhpcy5wYXRoU3lzdGVtLmlzT25QYXRoKHgsIHkpKSByZXR1cm4gZmFsc2U7CiAgICBmb3IgKGNvbnN0IHQgb2YgdGhpcy50b3dlcnMpIHsKICAgICAgY29uc3QgZCA9IFBoYXNlci5NYXRoLkRpc3RhbmNlLkJldHdlZW4oeCwgeSwgdC5zcHJpdGUueCwgdC5zcHJpdGUueSk7CiAgICAgIGlmIChkIDwgNTApIHJldHVybiBmYWxzZTsKICAgIH0KICAgIHJldHVybiB0cnVlOwogIH0KCiAgcHJpdmF0ZSB0cnlQbGFjZVRvd2VyKHg6IG51bWJlciwgeTogbnVtYmVyKTogdm9pZCB7CiAgICBpZiAoIXRoaXMuc2VsZWN0ZWRUb3dlclR5cGUpIHJldHVybjsKICAgIGNvbnN0IHR5cGUgPSBUT1dFUl9UWVBFU1t0aGlzLnNlbGVjdGVkVG93ZXJUeXBlXTsKICAgIGlmICh0aGlzLmdvbGQgPCB0eXBlLmNvc3QpIHJldHVybjsKICAgIGlmICghdGhpcy5jYW5QbGFjZVRvd2VyKHgsIHkpKSByZXR1cm47CgogICAgdGhpcy5nb2xkIC09IHR5cGUuY29zdDsKICAgIGNvbnN0IHRvd2VyID0gbmV3IFRvd2VyKHRoaXMsIHgsIHksIHRoaXMuc2VsZWN0ZWRUb3dlclR5cGUpOwogICAgdGhpcy50b3dlcnMucHVzaCh0b3dlcik7CiAgfQoKICBwcml2YXRlIHRyeVNlbGVjdFRvd2VyKHg6IG51bWJlciwgeTogbnVtYmVyKTogdm9pZCB7CiAgICB0aGlzLnNlbGVjdGVkVG93ZXIgPSBudWxsOwogICAgZm9yIChjb25zdCB0IG9mIHRoaXMudG93ZXJzKSB7CiAgICAgIGNvbnN0IGQgPSBQaGFzZXIuTWF0aC5EaXN0YW5jZS5CZXR3ZWVuKHgsIHksIHQuc3ByaXRlLngsIHQuc3ByaXRlLnkpOwogICAgICBpZiAoZCA8IDMwKSB7CiAgICAgICAgdGhpcy5zZWxlY3RlZFRvd2VyID0gdDsKICAgICAgICBicmVhazsKICAgICAgfQogICAgfQogIH0KCiAgdXBkYXRlKHRpbWU6IG51bWJlciwgZGVsdGE6IG51bWJlcik6IHZvaWQgewogICAgaWYgKHRoaXMuaXNQYXVzZWQpIHJldHVybjsKCiAgICBjb25zdCBkdCA9IChkZWx0YSAvIDEwMDApICogdGhpcy5zcGVlZE11bHRpcGxpZXI7CgogICAgLy8gVXBkYXRlIHdhdmUgbWFuYWdlcgogICAgdGhpcy53YXZlTWFuYWdlci51cGRhdGUoZHQpOwoKICAgIC8vIFVwZGF0ZSBlbmVtaWVzCiAgICBmb3IgKGxldCBpID0gdGhpcy5lbmVtaWVzLmxlbmd0aCAtIDE7IGkgPj0gMDsgaS0tKSB7CiAgICAgIGNvbnN0IGVuZW15ID0gdGhpcy5lbmVtaWVzW2ldOwogICAgICBlbmVteS51cGRhdGUoZHQpOwoKICAgICAgaWYgKGVuZW15LnJlYWNoZWRFbmQpIHsKICAgICAgICB0aGlzLmxpdmVzIC09IGVuZW15LmRhbWFnZTsKICAgICAgICBlbmVteS5kZXN0cm95KCk7CiAgICAgICAgdGhpcy5lbmVtaWVzLnNwbGljZShpLCAxKTsKICAgICAgICBpZiAodGhpcy5saXZlcyA8PSAwKSB7CiAgICAgICAgICB0aGlzLmdhbWVPdmVyKCk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGNvbnRpbnVlOwogICAgICB9CgogICAgICBpZiAoZW5lbXkuaXNEZWFkKSB7CiAgICAgICAgdGhpcy5nb2xkICs9IGVuZW15LnJld2FyZDsKICAgICAgICB0aGlzLnNjb3JlICs9IGVuZW15LnJld2FyZCAqIDEwOwogICAgICAgIGVuZW15LmRlc3Ryb3koKTsKICAgICAgICB0aGlzLmVuZW1pZXMuc3BsaWNlKGksIDEpOwogICAgICB9CiAgICB9CgogICAgLy8gVXBkYXRlIHRvd2VycwogICAgZm9yIChjb25zdCB0b3dlciBvZiB0aGlzLnRvd2VycykgewogICAgICB0b3dlci51cGRhdGUoZHQsIHRoaXMuZW5lbWllcyk7CiAgICB9CgogICAgLy8gQ2hlY2sgd2F2ZSBjb21wbGV0ZQogICAgaWYgKHRoaXMud2F2ZU1hbmFnZXIuaXNXYXZlQ29tcGxldGUoKSAmJiB0aGlzLmVuZW1pZXMubGVuZ3RoID09PSAwKSB7CiAgICAgIGlmICh0aGlzLndhdmVNYW5hZ2VyLmN1cnJlbnRXYXZlID49IFdBVkVTLmxlbmd0aCkgewogICAgICAgIHRoaXMudmljdG9yeSgpOwogICAgICAgIHJldHVybjsKICAgICAgfQogICAgfQoKICAgIC8vIFVwZGF0ZSBIVUQKICAgIHRoaXMuZ29sZFRleHQuc2V0VGV4dChg8J+SsCR7dGhpcy5nb2xkfWApOwogICAgdGhpcy5saXZlc1RleHQuc2V0VGV4dChg4p2k4oCNJHt0aGlzLmxpdmVzfWApOwogICAgdGhpcy53YXZlVGV4dC5zZXRUZXh0KGDwn4yKIFdhdmU6ICR7dGhpcy53YXZlTWFuYWdlci5jdXJyZW50V2F2ZX0vJHtXQVZFUy5sZW5ndGh9YCk7CiAgICB0aGlzLnNjb3JlVGV4dC5zZXRUZXh0KGDirZDvuI8gJHt0aGlzLnNjb3JlfWApOwogIH0KCiAgcHJpdmF0ZSBhc3luYyBnYW1lT3ZlcigpOiBQcm9taXNlPHZvaWQ+IHsKICAgIHRoaXMuaXNQYXVzZWQgPSB0cnVlOwogICAgY29uc3QgbmFtZSA9IHByb21wdCgn5ri45oiP57uT5p2f77yB6L6T5YWl5aeT5ZCNOicpIHx8ICfljL/lkI0nOwogICAgYXdhaXQgTGVhZGVyYm9hcmRTZXJ2aWNlLnN1Ym1pdFNjb3JlKG5hbWUsIHRoaXMuc2NvcmUsIHRoaXMud2F2ZU1hbmFnZXIuY3VycmVudFdhdmUpOwogICAgdGhpcy5zY2VuZS5zdGFydCgnTGVhZGVyYm9hcmRTY2VuZScpOwogIH0KCiAgcHJpdmF0ZSBhc3luYyB2aWN0b3J5KCk6IFByb21pc2U8dm9pZD4gewogICAgdGhpcy5pc1BhdXNlZCA9IHRydWU7CiAgICBjb25zdCBuYW1lID0gcHJvbXB0KCfwn46J5oGt5Zac6L+H5YWz77yB6L6T5YWl5aeT5ZCNOicpIHx8ICfljL/lkI0nOwogICAgYXdhaXQgTGVhZGVyYm9hcmRTZXJ2aWNlLnN1Ym1pdFNjb3JlKG5hbWUsIHRoaXMuc2NvcmUsIHRoaXMud2F2ZU1hbmFnZXIuY3VycmVudFdhdmUpOwogICAgdGhpcy5zY2VuZS5zdGFydCgnTGVhZGVyYm9hcmRTY2VuZScpOwogIH0KfQo
+
+import Phaser from 'phaser';
+import { GAME_WIDTH, GAME_HEIGHT, PATH_POINTS, TOWER_TYPES, ENEMY_TYPES, WAVES, PATH_EXCLUSION_RADIUS
+ } from '../config/gameConfig';
+import { PathSystem } from '../systems/PathSystem';
+import { Tower } from '../entities/Tower';
+import { Enemy } from '../entities/Enemy';
+import { WaveManager } from '../entities/WaveManager';
+import { LeaderboardService } from '../systems/LeaderboardService';
+
+export class GameScene extends Phaser.Scene {
+  private gold: number = 200;
+  private lives: number = 20;
+  private score: number = 0;
+  private speedMultiplier: number = 1;
+  private isPaused: boolean = false;
+
+  private towers: Tower[] = [];
+  private enemies: Enemy[] = [];
+  private projectiles: Phaser.GameObjects.Arc [] = [];
+
+  private pathSystem!: PathSystem;
+  private waveManager!: WaveManager;
+
+  private selectedTowerType: string | null = null;
+  private selectedTower: Tower | null = null;
+  private placementPreview!: Phaser.GameObjects.Arc;
+
+  private goldText!: Phaser.GameObjects.Text;
+  private livesText!: Phaser.GameObjects.Text;
+  private waveText!: Phaser.GameObjects.Text;
+  private scoreText!: Phaser.GameObjects.Text;
+
+  constructor() {
+    super({ key: 'GameScene' });
+  }
+
+  create(): void {
+    this.gold = 200;
+    this.lives = 20;
+    this.score = 0;
+    this.speedMultiplier = 1;
+    this.isPaused = false;
+    this.towers = [];
+    this.enemies = [];
+    this.projectiles = [];
+    this.selectedTowerType = null;
+    this.selectedTower = null;
+
+    this.cameras.main.setBackgroundColor(0x4aba4a);
+
+    this.pathSystem = new PathSystem(this);
+    this.pathSystem.drawPath();
+
+    this.waveManager = new WaveManager(this, (ey: Enemy) => {
+      this.enemies.push(ey);
+    });
+
+    this.createHUD();
+    this.createTowerButtons();
+    this.setupInput();
+
+    // Placement preview
+    this.placementPreview = this.add.circle(0, 0, 20, 0x00ff00, 0.3);
+    this.placementPreview.setVisible(false);
+  }
+
+  private createHUD(): void {
+    const style = { fontSize: '18px', color: '#fff', fontFamily: 'Arial', stroke: '#000', strokeThickness: 3 };
+    this.goldText = this.add.text(10, 10, `💰 ${this.gold}`, style);
+    this.livesText = this.add.text(150, 10, `❤ ${this.lives}`, style);
+    this.waveText = this.add.text(280, 10, `🌊 Wave: 0`, style);
+    this.scoreText = this.add.text(450, 10, `⭐️ ${this.score}`, style);
+
+    // Speed buttons
+    [1, 2, 3].forEach((spd, i) => {
+      const btn = this.add.text(650 + i * 60, 10, `x${spd}`, {
+        fontSize: '16px', color: spd === this.speedMultiplier ? '#FFD700' : '#fff',
+        fontFamily: 'Arial', backgroundColor: '#333', padding: { x: 8, y: 4 }
+      }).setInteractive({ useHandCursor: true });
+      btn.on('pointerdown', () => { this.speedMultiplier = spd; });
+    });
+  }
+
+  private createTowerButtons(): void {
+    const types = Object.keys(TOWER_TYPES);
+    types.forEach((type, i) => {
+      const t = TOWER_TYPES[type];
+      const y = 50 + i * 70;
+      const btn = this.add.text(GAME_WIDTH - 160, y, `${t.emoji} ${t.name}\n${t.cost}g`, {
+        fontSize: '13px', color: '#fff', fontFamily: 'Arial',
+        backgroundColor: '#2228', padding: { x: 10, y: 6 }
+      }).setInteractive({ useHandCursor: true });
+      btn.on('pointerdown', () => {
+        this.selectedTowerType = type;
+        this.selectedTower = null;
+      });
+    });
+  }
+
+  private setupInput(): void {
+    this.input.on('pointermove', (p: Phaser.Input.Pointer) => {
+      if (this.selectedTowerType) {
+        this.placementPreview.setPosition(p.x, p.y);
+        this.placementPreview.setVisible(true);
+        const canPlace = this.canPlaceTower(p.x, p.y);
+        this.placementPreview.setFillStyle(canPlace ? 0x00ff00 : 0xff0000, 0.3);
+      } else {
+        this.placementPreview.setVisible(false);
+      }
+    });
+
+    this.input.on('pointerdown', (p: Phaser.Input.Pointer) => {
+      if (this.selectedTowerType) {
+        this.tryPlaceTower(p.x, p.y);
+      } else {
+        this.trySelectTower(p.x, p.y);
+      }
+    });
+
+    this.input.keyboard!.on('keydown-SPACE', () => {
+      this.isPaused = !this.isPaused;
+    });
+    this.input.keyboard!.on('keydown-ESC', () => {
+      this.selectedTowerType = null;
+      this.selectedTower = null;
+    });
+  }
+
+  private canPlaceTower(x: number, y: number): boolean {
+    if (this.pathSystem.isOnPath(x, y)) return false;
+    for (const t of this.towers) {
+      const d = Phaser.Math.Distance.Between(x, y, t.sprite.x, t.sprite.y);
+      if (d < 50) return false;
+    }
+    return true;
+  }
+
+  private tryPlaceTower(x: number, y: number): void {
+    if (!this.selectedTowerType) return;
+    const type = TOWER_TYPES[this.selectedTowerType];
+    if (this.gold < type.cost) return;
+    if (!this.canPlaceTower(x, y)) return;
+
+    this.gold -= type.cost;
+    const tower = new Tower(this, x, y, this.selectedTowerType);
+    this.towers.push(tower);
+  }
+
+  private trySelectTower(x: number, y: number): void {
+    this.selectedTower = null;
+    for (const t of this.towers) {
+      const d = Phaser.Math.Distance.Between(x, y, t.sprite.x, t.sprite.y);
+      if (d < 30) {
+        this.selectedTower = t;
+        break;
+      }
+    }
+  }
+
+  update(time: number, delta: number): void {
+    if (this.isPaused) return;
+
+    const dt = (delta / 1000) * this.speedMultiplier;
+
+    // Update wave manager
+    this.waveManager.update(dt);
+
+    // Update enemies
+    for (let i = this.enemies.length - 1; i >= 0; i--) {
+      const enemy = this.enemies[i];
+      enemy.update(dt);
+
+      if (enemy.reachedEnd) {
+        this.lives -= enemy.damage;
+        enemy.destroy();
+        this.enemies.splice(i, 1);
+        if (this.lives <= 0) {
+          this.gameOver();
+          return;
+        }
+        continue;
+      }
+
+      if (enemy.isDead) {
+        this.gold += enemy.reward;
+        this.score += enemy.reward * 10;
+        enemy.destroy();
+        this.enemies.splice(i, 1);
+      }
+    }
+
+    // Update towers
+    for (const tower of this.towers) {
+      tower.update(dt, this.enemies);
+    }
+
+    // Check wave complete
+    if (this.waveManager.isWaveComplete() && this.enemies.length === 0) {
+      if (this.waveManager.currentWave >= WAVES.length) {
+        this.victory();
+        return;
+      }
+    }
+
+    // Update HUD
+    this.goldText.setText(`💰${this.gold}`);
+    this.livesText.setText(`❤‍${this.lives}`);
+    this.waveText.setText(`🌊 Wave: ${this.waveManager.currentWave}/${WAVES.length}`);
+    this.scoreText.setText(`⭐️ ${this.score}`);
+  }
+
+  private async gameOver(): Promise<void> {
+    this.isPaused = true;
+    const name = prompt('游戏结束！输入姓名:') || '匿名';
+    await LeaderboardService.submitScore(name, this.score, this.waveManager.currentWave);
+    this.scene.start('LeaderboardScene');
+  }
+
+  private async victory(): Promise<void> {
+    this.isPaused = true;
+    const name = prompt('🎉恭喜过关！输入姓名:') || '匿名';
+    await LeaderboardService.submitScore(name, this.score, this.waveManager.currentWave);
+    this.scene.start('LeaderboardScene');
+  }
+}
