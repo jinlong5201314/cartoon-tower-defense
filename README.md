@@ -1,1 +1,57 @@
-IyDwn4+wIOWNoemAmuWhlOmYsu+8iENhcnRvb24gVG93ZXIgRGVmZW5zZe+8iQoK5LiA5qy+5Z+65LqOIFBoYXNlciAzIOeahOWNoemAmumijeagvOWhlOmYsuaIuOaIj++8jOWNleaWh+S7tiBIVE1MIOWNs+WPr+i/kOihjOOAggoKIyMg8J+OqiDmuLjmiI/nibnmgKcKCi0gKio15q2j6Ziy5b6h5aGUKio6IOeureWhlPCfj7njgIHngq7loZTwn5Kj44CB5YaZ5aGU4p2E77iP44CB5q+S5aGU4pig77iP44CB55S15aGU4pqhCi0gKio15q2j5pWM5Lq6Kio6IOWwj+WFteOAgemjnuavm+iFreOAgemHjeeUsuWFteOAgemjnuihjOaAquOAgUJPU1MKLSAqKjEw5rOi5pWM5Lq6Kior77yM6Zq+5bqm6YCS5aKeCi0gKirog6rnlLHmlL7nva4qKiDpmLLlvqHloZTvvIjpnZ7nvZHmoLzvvInvvIzot6/lvoTmjpLmlqXljLrln58gKyDloZTpl7Tot53mo4DmtYsKLSAqKuWNh+e6p+ezu+e7nyoq77yIMue6p++8ieWSjOWHuuWUrue7n+e7nwotICoq54m55q6K5pWI5p6cKio6IEFPReiMg+WbtOS8pOWus+OAgeWHj+mAn+OAgeaMgee7rea/kuS8pOOAgumTvuW8j+mXqueUtQotICoq6YCf5bqm5o6n5Yi2Kio6IHgxL3gyL3gzICsg5pqC5YGcKOepuuagvCkgKyDlj5bmtogo RVNDKQotICoq5o6S6KGM5qacKio6IGxvY2FsU3RvcmFnZSDlrZjlgqjvvIzpooTnlZkgU3VwYWJhc2Ug5o6l5Y+jCgojIyDwn5qAIOW/q+mAn+W8gOWniwor55u05o6l5Zyo5rWP6KeI5Zmo5Lit5omT5byAIGBpbmRleC5odG1sYCDljbPlj6/muLjmiI/vvIEKCmBgYGJhc2gKIyDmiJbogIXnlKjmnKzlnLDmnI3liqHlmagKbnB4IHNlcnZlIC4KYGBgCgojIyDwn5OBIOmhueebrue7k+aehAoKYGBgCuKUnOKUgOKUgCBpbmRleC5odG1sICAgICAgICAgICAgICAgICAgICAgICMg5a6M5pW05ri45oiP77yI5Y2V5paH5Lu277yM5Y+v55u05o6l6L+Q6KGM77yJCuKUnOKUgOKUgCBzcmMvICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgVHlwZVNjcmlwdCDmqKHlnZfljJbmupDnoIHvvIjkvpvlkI7mnJ/ph43mnoTvvIkK4pSCICAg4pSc4pSA4pSAIG1haW4udHMgICAgICAgICAgICAgICAgICAgICAjIOWFpeWPowrilIIgICDilJzilIDilIAgY29uZmlnL2dhbWVDb25maWcudHMgICAgICAgICMg5ri45oiP6YWN572u77yI5aGU44CB5pWM5Lq644CB5rOi5qyh77yJCuKUgiAgIOKUnOKUgOKUgCBlbnRpdGllcy8K4pSCICAg4pSCICAg4pSc4pSA4pSAIFRvd2VyLnRzICAgICAgICAgICAgICAgICMg6Ziy5b6h5aGU5a6e5L2TCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCBFbmVteS50cyAgICAgICAgICAgICAgICAjIOaVjOS6uuWunuS9kwrilIIgICDilIIgICDilJTilIDilIAgV2F2ZU1hbmFnZXIudHMgICAgICAgICAjIOazoeasoeuuoeeQhuWZqArilIIgICDilJzilIDilIAgc3lzdGVtcy8K4pSCICAg4pSCICAg4pSc4pSA4pSAIFBhdGhTeXN0ZW0udHMgICAgICAgICAgICMg6Lev5b6E57O757uXCuKUgiAgIOKUgiAgIOKUlOKUgOKUgCBMZWFkZXJib2FyZFNlcnZpY2UudHMgIyDmjpLooYzmppzmnI3liqEK4pSCICAg4pSU4pSA4pSAIHNjZW5lcy8K4pSCICAgICAgIOKUnOKUgOKUgCBNZW51U2NlbmUudHMgICAgICAgICAgICMg5Li76I+c5Y2VCuKUgiAgICAgICDilJzilIDilIAgR2FtZVNjZW5lLnRzICAgICAgICAgICAjIOa4uOaIj+WcuuaZrwrilIIgICAgICAg4pSU4pSA4pSAIExlYWRlcmJvYXJkU2NlbmUudHMgICAjIOaOkuihjOamnArilJTilIDilIAgUkVBRE1FLm1kCmBgYAoKIyMg8J+boCDmioDmnK/moIgKCi0gKipQaGFzZXIgMyoqIC0g5ri45oiP5byV5pOOIChDRE4pCi0gKipUeXBlU2NyaXB0KiogLSDnsbvlnovlronlhagKLSAqKmxvY2FsU3RvcmFnZSoqIC0g5pys5Zyw5o6S6KGM5qac77yI5ZCO5pyf6L+B56e7IFN1cGFiYXNl77yJCgojIyDwn5O4IOaIquWbvgoK5ri45oiP5Li76I+c5Y2V5ZKM5oiY5paX5Zy65pmv5bey5Zyo5byA5Y+R6L+H56iL5Lit6aqM6K+B6YCa6L+H44CCCgojIyBMaWNlbnNlCgpNSVQK
+# 🏰 卡通塔防（Cartoon Tower Defense）
+
+一款基于 Phaser 3 的卡通颍格塔防戸戏，单文件 HTML 即可运行。
+
+## 🎪 游戏特性
+
+- **5正防御塔**: 箭塔🏹、炮塔💣、写塔❄️、毒塔☠️、电塔⚡
+- **5正敌人**: 小兵、飞毛腭、重甲兵、飞行怪、BOSS
+- **10波敌人**+，难度递增
+- **胪由放置** 防御塔（非网格），路径排斥区域 + 塔间距检测
+- **升级系统**（2级）和出售统统
+- **特殊效果**: AOE范围伤害、减速、持续濒伤。链式闪电
+- **速度控制**: x1/x2/x3 + 暂停(空格) + 取消(ESC)
+- **排行榜**: localStorage 存储，预留 Supabase 接口
+
+## 🚀 快速开始
++直接在浏览器中打开 `index.html` 即可游戏！
+
+```bash
+# 或者用本地服务器
+npx serve .
+```
+
+## 📁 项目结构
+
+```
+├── index.html                      # 完整游戏（单文件，可直接运行）
+├── src/                            # TypeScript 模块化源码（供后期重构）
+│   ├── main.ts                     # 入口
+│   ├── config/gameConfig.ts        # 游戏配置（塔、敌人、波次）
+│   ├── entities/
+│   │   ├── Tower.ts                # 防御塔实体
+│   │   ├── Enemy.ts                # 敌人实体
+│   │   └── WaveManager.ts         # 泡次뮡理器
+│   ├── systems/
+│   │   ├── PathSystem.ts           # 路径系绗
+│   │   └── LeaderboardService.ts # 排行榜服务
+│   └── scenes/
+│       ├── MenuScene.ts           # 主菜单
+│       ├── GameScene.ts           # 游戏场景
+│       └── LeaderboardScene.ts   # 排行榜
+└── README.md
+```
+
+## 🛠 技术栈
+
+- **Phaser 3** - 游戏引擎 (CDN)
+- **TypeScript** - 类型安全
+- **localStorage** - 本地排行榜（后期迁移 Supabase）
+
+## 📸 截图
+
+游戏主菜单和战斗场景已在开发过程中验证通过。
+
+## License
+
+MIT
